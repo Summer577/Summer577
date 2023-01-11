@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Summer577
 - 👀 I’m interested in working as a Junior Software Developer for a startup.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I learned JavaScript and currently learning C++.
 - 💞️ I’m looking to collaborate on any new startups that need interns.
 - 📫 How to reach me summerranaldson@gmail.com or www.linkedin.com/in/summer-ranaldson-67335b25.
 
